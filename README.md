@@ -32,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=capacitor" height="30" alt="capacitor logo"  />
 </div>
 
 ###
@@ -55,5 +57,3 @@
 <br clear="both">
 
 <img align="right" src="https://profile-counter.glitch.me/didi168/count.svg?"  />
-
-###

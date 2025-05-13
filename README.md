@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Okorie Divine Chukwudumebi.<br><br>A Software Developer and Designer</h2>
+<h1 align="left">Hi 👋! My name is Okorie Divine Chukwudumebi.<br><br>A Software Developer and Designer</h1>
 
 ###
 

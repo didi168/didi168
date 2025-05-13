@@ -38,6 +38,19 @@
 
 ###
 
+<h3>About Me</h3>
+<p>I have been coding and building projects for 6 years now. My front-end skills are React.js, Next.js, and Capacitor. I use SQL for my database management and Node.js for the back-end. With my skill stack and professional experience, I create stunning websites, web apps, and mobile apps.</p>
+
+<p>🌍 I am based in Nigeria</p>
+<p>🖥️ See my portfolio at <a href="http://didi168.github.io/DiDi-Media/">Dues-Soft Designs</a></p>
+<p>✉️ You can contact me at <a href="mailto:divineoko2018@gmail.com">divineoko2018@gmail.com</a></p>
+<p>🚀 I am currently working on an E-commerce Mobile App <a href="#">IMX Gifts</a></p>
+<p>🧠 I am learning Tree.js for 3D websites and web apps, and React Native for mobile app development.</p>
+<p>🤝 I am open to collaborating on long-term projects for various industries.</p>
+<p>⚡ I secretly own a B.Sc. in Animal and Environmental Biology, but I don’t tell anyone.</p>
+
+###
+
 <div align="right">
   <a href="mailto:divineoko2018@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />

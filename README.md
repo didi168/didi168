@@ -4,6 +4,10 @@
 
 ###
 
+<div align="right">
+  <img align="right" height="150" src="https://didi168.github.io/DiDi-Media/assets/DP.jpg" />
+</div>
+
 <h3>About Me</h3>
 <p>I have been coding and building projects for 6 years now. My front-end skills are React.js, Next.js, and Capacitor. I use SQL for my database management and Node.js for the back-end. With my skill stack and professional experience, I create stunning websites, web apps, and mobile apps.</p>
 
@@ -17,17 +21,13 @@
 
 ###
 
-<div align="center">
-  <img align="left" height="150" src="https://didi168.github.io/DiDi-Media/assets/DP.jpg" />
-</div>
-
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=didi168&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ### 
 
-<div align="center">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo" />
@@ -49,7 +49,7 @@
 
 ### 
 
-<div align="center">
+<div align="right">
   <a href="mailto:divineoko2018@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>

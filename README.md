@@ -5,7 +5,7 @@
 ###
 
 <div align="right">
-  <img align="right" height="150" src="https://didi168.github.io/DiDi-Media/assets/DP.jpg" />
+  <img align="right" height="150" src="https://didi168.github.io/DiDi-Media/assets/webicon.png" />
 </div>
 
 <h3>About Me</h3>

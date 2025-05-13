@@ -9,7 +9,7 @@
 </div>
 
 <h3>About Me</h3>
-<p>I have been coding and building projects for 6 years now. My front-end skills are React.js, Next.js, and Capacitor. I use Express.js & Node.js for the back-end. With my skill stack and professional experience, I create stunning websites, web apps, and mobile apps.</p>
+<p>I have been coding and building projects for 6 years now. My front-end skills are React.js, Next.js, and Capacitor. I use Express.js & Node.js for the back-end. With my skill stack and professional experience, <br/>I create stunning websites, web apps, and mobile apps.</p>
 
 <p>🌍 I am based in Nigeria</p>
 <p>🖥️ See my portfolio at <a href="http://didi168.github.io/DiDi-Media/">Dues-Soft Designs</a></p>

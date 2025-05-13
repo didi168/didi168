@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Okorie Divine Chukwudumebi
 ==================================================================================================================================================
 
-Web Developer and Designer
+Software Developer and Designer
 --------------------------
 
-I have been Coding for 6 years now. My front-end skill are; React.js, Next.js & Typescript. I use SQL for my database Management and Node.js for back-end. With my skill stack and professional experience i create stunning websites (web apps & landing pages).
+I have been Coding and building projects for 6 years now. My front-end skill are; React.js, Next.js and Capacitor. I use SQL for my database Management and Node.js for back-end. With my skill stack and professional experience i create stunning websites, Web apps & Mobile Apps.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Dues-Soft Designs](http://didi168.github.io/DiDi-Media/)
 * ✉️  You can contact me at [divineoko2018@gmail.com](mailto:divineoko2018@gmail.com)
-* 🚀  I'm currently working on [Emcelo](http://emecelo.vercel.app/)
+* 🚀  I'm currently working on a an E-commerce Mobile App [IMX Gifts]()
 * 🧠  I'm learning Tree.js for 3D websites and web Apps & React Native for Mobile App Development.
 * 🤝  I'm open to collaborating on Long Term Projects for Various industries.
 * ⚡  I secretly own a B.sc in Animal and environmental Biology but i don't tell anyone

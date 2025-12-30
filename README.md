@@ -24,12 +24,14 @@
 ### About Me
 I merge the logical precision of **Software Engineering** with the limitless imagination of **Creative Design**. With over 6 years of experience, I build immersive digital experiences that aren't just functional—they're stunning. From high-performance web apps to sleek mobile interfaces and cinematic motion graphics.
 
-### Technical Expertise
+<h3 align="left">Technical Expertise</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,capacitor,figma,ps,ae,pr,ts,bootstrap,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,figma,ps,ae,pr,ts,git&theme=dark" />
   </a>
 </p>
+
+
 
 ### Featured Projects
 | Project | Stack | Status |

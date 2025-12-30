@@ -1,77 +1,88 @@
-<br clear="both">
+<div align="center">
 
-<h1 align="left">Hi 👋! My name is Okorie Divine Chukwudumebi.<br><br>A Software Developer and Designer</h1>
+<!-- HEADER/BANNER -->
+<!-- 
+  TIP: Upload your cyberpunk_developer_banner to your GitHub repo 
+  and update the src link below to: https://raw.githubusercontent.com/didi168/didi168/main/header.png
+-->
+<img src="https://raw.githubusercontent.com/didi168/didi168/main/header.png" alt="Futuristic Banner" width="100%" />
 
-###
+# 01_SYSTEM_INITIALIZE
+### 👋 Greetings! I am Okorie Divine Chukwudumebi
+**Web & Mobile Developer | Creative Designer | React.js Specialist | Motion Artist**
 
-<div align="right">
-  <img align="right" height="150" src="https://didi168.github.io/DiDi-Media/assets/webicon.png" />
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Operating-00ff00?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Nigeria-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-6_Years-purple?style=for-the-badge" />
+</p>
+
+| 🚀 10+ Projects | 🛠️ 8+ Tech Stacks | 🤝 95% Satisfaction |
+| :---: | :---: | :---: |
+
+---
+
 </div>
 
-<h3>About Me</h3>
-<p>I have been coding and building projects for 6 years now. My front-end skills are React.js, Next.js, and Capacitor. I use Express.js & Node.js for the back-end. With my skill stack and professional experience, <br/>I create stunning websites, web apps, and mobile apps, for both Andriod and IOS.</p>
+### 02_CORE_NARRATIVE
+I merge the logical precision of **Software Engineering** with the limitless imagination of **Creative Design**. With over 6 years of coding and design experience, I build immersive digital experiences that aren't just functional—they're stunning. From high-performance web apps to sleek mobile interfaces and cinematic motion graphics.
 
-<p>🌍 I am based in Nigeria</p>
-<p>🖥️ See my portfolio at <a href="http://didi168.github.io/DiDi-Media/">Dues-Soft Designs</a></p>
-<p>✉️ You can contact me at <a href="mailto:divineoko2018@gmail.com">divineoko2018@gmail.com</a></p>
-<p>🚀 I am currently working on an E-commerce Mobile App <a href="#">IMX Gifts</a></p>
-<p>🧠 I am learning Tree.js for 3D websites and web apps, and React Native for mobile app development.</p>
-<p>🤝 I am open to collaborating on long-term projects for various industries.</p>
-<p>⚡ I secretly own a B.Sc. in Animal and Environmental Biology, but I don’t tell anyone.</p>
+### 03_TECH_LOADOUT
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,capacitor,figma,ps,ae,pr,ts,bootstrap,git&theme=dark" />
+  </a>
+</p>
 
-###
+### 04_OPERATIONAL_HISTORY
+<details>
+<summary><b>[LOG_01] Front-End & Project Lead</b></summary>
+  <ul>
+    <li><b>PHILTECHS (Front-End)</b>: Developed a full academy website for course applications.</li>
+    <li><b>EMCELO (React.js)</b>: Led development of a dynamic e-commerce platform with API integration.</li>
+    <li><b>WEEYBA (Next.js)</b>: Built a virtual task platform using TypeScript and Next.js.</li>
+    <li><b>OUD ALKHAIRY (Front-End)</b>: Developed professional offshore services site with SEO.</li>
+  </ul>
+</details>
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=didi168&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+<details>
+<summary><b>[LOG_02] Creative Design & Instruction</b></summary>
+  <ul>
+    <li><b>Freelance (2019-Present)</b>: Branding, UI/UX, Motion Graphics (Apex Boost, HostCreep).</li>
+    <li><b>Git Global (Volunteer)</b>: Instructed Graphics Design and Video Editing.</li>
+    <li><b>Rollins Academy (Volunteer)</b>: Taught fundamental Computer Science and Web Concepts.</li>
+  </ul>
+</details>
+
+### 05_DEPLOYMENT_ARCHIVES
+| Project | Stack | Status |
+| :--- | :--- | :--- |
+| **[Oud Alkhairy](https://oudalkhairy.com/)** | HTML, CSS, SEO | ✅ Live |
+| **[Emcelo](https://emecelo.vercel.app/)** | React.js, API | ✅ Live |
+| **[Philtechs Academy](https://education.philtechs.org/)** | HTML, JS, CSS | ✅ Live |
+| **[Finzorex](https://app.finzorex.com/)** | React, API, Crypto | ✅ Live |
+| **[Zippy Pay](https://zippyafricpay.com/)** | HTML, SEO, FinTech | ✅ Live |
+| **[Weeyba](https://front-end-weeyba.vercel.app/)** | Next.js, TS | ✅ Live |
+
+---
+
+### 06_NEURAL_LINK
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divineoko2018@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dues-soft-designs/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2348122232066)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DivineOkorie3)
+
+---
+
+### 07_SYSTEM_METRICS
+![Snake Animation](https://raw.githubusercontent.com/didi168/didi168/output/snake.svg)
+
+<p align="right">
+  <img src="https://profile-counter.glitch.me/didi168/count.svg" />
+</p>
+
 </div>
-
-###
-
-<div align="left">
-  <a href="mailto:divineoko2018@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://discord.com/users/didi168" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/dues-soft-designs/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://wa.me/+2348122232066" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=capacitor" height="30" alt="capacitor logo" />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/didi168/didi168/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<img align="right" src="https://profile-counter.glitch.me/didi168/count.svg?" />
